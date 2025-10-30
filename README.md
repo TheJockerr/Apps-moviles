@@ -1,1 +1,2 @@
 # Apps-moviles
+Aqui esta mi trabajo, mi nombre es David Salazar, y bueno, debe ser utilizado el microseervicio que tengo tambien en mi repositorio de github, tiene la opcion de login, ademas de gestion de usuarios por base de datos, funciona con conexión a microservicio. Además tiene la posibilidad de controlar el volumen y la vbración del dispositivo.
